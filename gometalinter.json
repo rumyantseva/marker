@@ -1,0 +1,3 @@
+{
+  "Enable": ["deadcode", "unconvert", "goimports", "unused", "unparam", "errcheck", "gocyclo", "varcheck"]
+}

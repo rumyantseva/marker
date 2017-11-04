@@ -1,0 +1,125 @@
+name,title,hex
+SFM000,Colorless Blender,#FFFFFF
+SFM112,Cream,#F9E5BC
+SFM114,Brown Grey,#EED4A2
+SFM116,Walnut,#C7AA77
+SFM118,Yellow Ochre,#D7B076
+SFM152,Barium Yellow,#FFF6B1
+SFM154,Canaria Yellow,#FAF29B
+SFM156,Pastel Yellow,#FFE97C
+SFM158,Yellow,#FDD16A
+SFM160,Olive Yellow,#E1C060
+SFM162,Dark Yellow,#E3B759
+SFM164,Lemon Yellow,#FFDD5C
+SFM166,Melon Yellow,#FCCA4E
+SFM168,Sunflower,#FED62F
+SFM170,Deep Yellow,#FCC328
+SFM172,Marigold,#F8B12D
+SFM202,Salmon Pink,#FDDDBC
+SFM206,Rose Beige,#F9C6A6
+SFM210,Potato Brown,#E9A870
+SFM212,Terra Cotta,#E18051
+SFM214,French Vermilion,#ED7A34
+SFM216,Orange,#F08700
+SFM300,Pastel Peach,#FEF7EF
+SFM304,Barely Beige,#FEF4EC
+SFM306,Powder Pink,#FDE7DF
+SFM312,Fruit Pink,#F9D3D0
+SFM314,Pale Pink,#F7C6CE
+SFM316,Pastel Rose,#F3A8AD
+SFM350,Coral Pink,#F08D7F
+SFM352,Scarlet,#EC7374
+SFM354,Vivid Red,#EA657B
+SFM356,Cherry Pink,#E65D86
+SFM358,Coral Red,#E96167
+SFM360,Vermilion,#E95A50
+SFM362,Carmine,#E43D4C
+SFM364,Deep Red,#E13C60
+SFM366,Rose Red,#DE3271
+SFM368,Geranium,#AB0F29
+SFM370,Old Red,#C43B6A
+SFM372,Wine Red,#AE3D63
+SFM414,Dark Violet Light,#D9D2E7
+SFM416,Pale Blue Violet,#EDE0ED
+SFM420,Pastel Pink,#F4D1E2
+SFM426,Pastel Violet,#E0C6DD
+SFM428,Lavender,#DEC7DF
+SFM450,Pale Purple,#F4C6DB
+SFM452,Rose Pink,#F4B0CA
+SFM454,Cerise,#F1B8D2
+SFM456,Vivid Pink,#E03188
+SFM458,Vivid Reddish Purple,#E2007A
+SFM460,Azalea Purple,#D3007B
+SFM462,Vivid Purple,#C5007B
+SFM464,Light Violet,#B62F88
+SFM466,Deep Violet,#A5037C
+SFM510,Sky Blue,#BAD4EC
+SFM512,Marine Blue,#6896AC
+SFM514,Pastel Blue,#AEDBEB
+SFM516,Baby Blue,#8DCBE1
+SFM518,Cerulean Blue,#85C8D8
+SFM522,Prussian Blue,#5C7FB0
+SFM550,Brilliant Blue,#5A8EC5
+SFM552,Cobalt Blue,#3E76B6
+SFM554,Napoleon Blue,#0955A0
+SFM556,Ultramarine,#172983
+SFM558,Royal Blue,#2090CB
+SFM560,Indian Blue,#008CC1
+SFM562,Ice Blue,#32BBD4
+SFM600,Turquoise Blue,#C9E6E3
+SFM602,Dark Green,#418C80
+SFM604,Forest Green,#229797
+SFM606,Turquoise Green Light,#76C5BD
+SFM608,Mint Green Light,#4DB9AB
+SFM610,Peacock Green,#12A8B0
+SFM632,Deep Olive Green,#79A573
+SFM640,Mint Green,#63BA99
+SFM642,Emerald Green,#009C70
+SFM644,Viridian,#399C7C
+SFM646,Turquoise Green,#048C77
+SFM648,Deep Green,#077C66
+SFM652,Vivid Green,#7FBF81
+SFM666,Yellow Green,#EBE87E
+SFM668,Bronze Green,#96A350
+SFM670,Pale Green,#CEE1AA
+SFM672,Grass Green,#9EC770
+SFM800,Burnt Sienna,#B19680
+SFM802,Bronze,#947B60
+SFM804,Chocolate,#937365
+SFM806,Chestnut Brown,#7C6055
+SFM808,Mahogany,#CC9982
+SFM810,Brick Brown,#C36B59
+SFM812,Raw Umber,#B28C63
+SFM814,Burnt Orange,#AE6736
+SFM816,Natural Oak,#A85A3E
+SFM900,Black,#242425
+SFMCG0,Cool Grey 0,#E9F1F6
+SFMCG1,Cool Grey 1,#DBE8F4
+SFMCG2,Cool Grey 2,#D1E5F4
+SFMCG3,Cool Grey 3,#C2D5E1
+SFMCG4,Cool Grey 4,#A7B8CC
+SFMCG5,Cool Grey 5,#8F9EB2
+SFMCG6,Cool Grey 6,#75859A
+SFMCG7,Cool Grey 7,#596982
+SFMCG8,Cool Grey 8,#354B69
+SFMCG9,Cool Grey 9,#052A4D
+SFMNG0,Neutral grey 0,#F4F7F6
+SFMNG1,Neutral grey 1,#EEEFEF
+SFMNG2,Neutral grey 2,#E5E8E9
+SFMNG3,Neutral grey 3,#C9CDCC
+SFMNG4,Neutral grey 4,#B1B6B6
+SFMNG5,Neutral grey 5,#989A9C
+SFMNG6,Neutral grey 6,#808285
+SFMNG7,Neutral grey 7,#676467
+SFMNG8,Neutral grey 8,#4F5358
+SFMNG9,Neutral grey 9,#283139
+SFMWG0,Warm Grey 0,#FEF7EF
+SFMWG1,Warm Grey 1,#F2E7E0
+SFMWG2,Warm Grey 2,#E1D9D3
+SFMWG3,Warm Grey 3,#D4CBC5
+SFMWG4,Warm Grey 4,#C9C0BB
+SFMWG5,Warm Grey 5,#AFAAA3
+SFMWG6,Warm Grey 6,#9A928E
+SFMWG7,Warm Grey 7,#847B77
+SFMWG8,Warm Grey 8,#6D625F
+SFMWG9,Warm Grey 9,#524846
